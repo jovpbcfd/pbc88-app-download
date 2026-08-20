@@ -70,13 +70,14 @@ export default function Home() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src="/img/IOS-qr.jpg"
+                src="/img/QR_https___pb888.dev_PBC88ios.png"
                 width={300}
                 height={300}
                 alt="QR ios"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
-              <Link href="https://pb888.me/AGdDMN">
+              <Link href="https://pb888.dev/PBC88ios">
+              {/* https://pb888.me/AGdDMN */}
                 <Image
                   src="/img/IOS_home_screen_button_bang.webp"
                   width={400}

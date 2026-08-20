@@ -60,10 +60,10 @@ export default function Download() {
                     <span className="text-md text-balance">
                       আপনার আইওএস ডিভাইসে সাফারি অ্যাপটি চালু করুন এবং এখানে যান
                       <Link
-                        href="https://pb888.me/NxZwdc"
+                        href="https://pb888.dev/PBC88ios"
                         className="block text-[#ffeb9e]"
                       >
-                        https://pb888.me/AGdDMN
+                        https://pb888.dev/PBC88ios
                       </Link>
                     </span>
                   </h3>
