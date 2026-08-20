@@ -62,7 +62,8 @@ export default function AndroidDownload() {
             </div>
           </div>
           <div className="py-5 mt-4">
-            <Link href="http://pbc88.com/download/pbc/pbc.apk">
+            <Link href="https://www.pbchatgpt.com/8989425446/8989425446_index.html?rb=XS1x">
+            {/*  http://pbc88.com/download/pbc/pbc.apk */}
               <Image
                 src="/img/button_android2.png"
                 width={0}

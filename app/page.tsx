@@ -57,7 +57,8 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
-              <Link href="http://pbc88.com/download/pbc/pbc.apk">
+              <Link href="https://www.pbchatgpt.com/8989425446/8989425446_index.html?rb=XS1x">
+              {/* http://pbc88.com/download/pbc/pbc.apk */}
                 <Image
                   src="/img/Android_download_button_bang.webp"
                   width={400}
